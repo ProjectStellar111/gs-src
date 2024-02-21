@@ -12,9 +12,6 @@
 **All of this Game Server was completely done by Milxnor and whoever else worked on it**
 
 # ERRORS
-* You're own traps kill you (so i took them out for the time-being) 
+* You're own traps kill you so i took them out for the (time-being) 
 * Lategame (i forgot)
 
-# I'M STUPID
-* if you get an error and it says detours just uninstall it and reinstall it
-* if you don't know how to do it then search it up 🤦‍♂️
